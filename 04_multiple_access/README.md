@@ -22,7 +22,7 @@ S = Ge^{-G}
 6. Explain what happens when \(p\) is too small or too large.
 
 ## Worked Solution
-
+(same solution in the code)
 A slot is successful if exactly one station transmits. This follows a binomial distribution:
 
 \[
