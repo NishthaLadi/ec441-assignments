@@ -24,7 +24,7 @@ Answer the following:
 7. Simulate expected retransmissions for GBN and SR as packet loss probability varies.
 
 ## Worked Solution
-
+(same solution in the code)
 Packet size:
 
 \[
