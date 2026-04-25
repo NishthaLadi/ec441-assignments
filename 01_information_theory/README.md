@@ -30,7 +30,7 @@ Answer the following:
 6. Use Python to plot channel capacity for SNR values from 0 to 30 dB and bandwidths of 1 MHz, 2 MHz, and 4 MHz.
 
 ## Worked Solution
-
+(same solution in the code)
 Entropy is:
 
 \[
