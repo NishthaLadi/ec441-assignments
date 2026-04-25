@@ -21,7 +21,7 @@ Answer the following:
 6. Plot Nyquist rate vs signal levels and Shannon capacity vs SNR.
 
 ## Worked Solution
-
+(same solution in the code)
 Nyquist limit for a noiseless channel is:
 
 \[
