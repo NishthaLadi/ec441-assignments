@@ -39,7 +39,7 @@ The company wants to minimize wasted addresses while keeping the routing table s
 5. Discuss the tradeoff between efficient address use and route aggregation.
 
 ## Worked Report
-
+(check subnetting_report.md)
 ### Method
 
 For each department, choose the smallest subnet where:
