@@ -1,10 +1,10 @@
-# EC441 Networking Portfolio — Topics 1–9
+# EC441 Networking Portfolio
 
 This repository is organized by topic rather than by week. Each topic folder contains:
 
 - `README.md`: artifact write-up with an elaborate calculation-based problem, worked solution, and interpretation
 - `solution.py`: runnable Python code for simulation, visualization, or verification
-- `outputs/`: generated plots after running the code
+- `outputs/`: generated plots and outputs after running the code
 
 ## Course requirement coverage
 
