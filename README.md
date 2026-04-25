@@ -20,18 +20,6 @@ This repository is organized by topic rather than by week. Each topic folder con
 | 08 Network Layer Subnetting | Report + Code | Network |
 | 09 IPv4, IPv6, DHCP, NAT | Problem + Simulation | Network |
 
-Topic 10, the lab/final project, can be added later as:
-
-```text
-10_tcp_tools_applications_lab/
-├── README.md
-├── lab_report.md
-├── ping_analysis.py
-├── tcp_client.py
-├── tcp_server.py
-└── screenshots/
-```
-
 ## Setup
 
 ```bash
