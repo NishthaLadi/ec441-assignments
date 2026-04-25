@@ -36,4 +36,4 @@ python 01_information_theory/solution.py
 
 ## Generative AI usage
 
-I used generative AI to help brainstorm calculation-heavy networking problems and design simulations. I reviewed and edited the outputs for correctness, clarity, and alignment with course topics.
+I used generative AI to help brainstorm calculation-heavy networking problems and help design simulations. 
