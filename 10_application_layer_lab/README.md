@@ -1,52 +1,10 @@
 # Topic 10: Application Layer Lab
 
-## Project Title
+## Lab Project Title
 **HTTP Protocol Behavior Lab: Exploring HTTP/1.1 with curl, Python, and Timing Experiments**
 
 ## One-Line Description
 Investigated HTTP/1.1 methods, status codes, headers, keep-alive behavior, and head-of-line blocking using `curl`, Python `requests`, and latency visualizations.
-
-## Course Concepts Covered
-- Application layer protocols
-- HTTP/1.1 request and response format
-- HTTP methods: GET, HEAD, POST, DELETE
-- Status codes: 2xx, 3xx, 4xx, 5xx
-- Headers: `Content-Type`, `Content-Length`, `Server`, `Date`, `Connection`
-- Persistent connections / keep-alive
-- Head-of-line blocking
-- `curl` command-line experiments
-- Python-based network measurement
-
-## Folder Contents
-
-```text
-10_application_layer_lab/
-├── README.md
-├── lab_report.md
-├── http_lab.py
-├── requirements.txt
-└── outputs/
-    ├── latency_comparison.png
-    ├── status_code_distribution.png
-    ├── hol_blocking.png
-    └── http_lab_results.csv
-```
-
-## How to Run
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the lab script:
-
-```bash
-python http_lab.py
-```
-
-The script will generate plots and a CSV file inside the `outputs/` folder.
 
 ## Curl Commands Used
 
