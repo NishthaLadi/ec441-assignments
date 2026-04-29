@@ -19,6 +19,8 @@ This repository is organized by topic rather than by week. Each topic folder con
 | 07 Routing Algorithms | Problem + Code | Network |
 | 08 Network Layer Subnetting | Report + Code | Network |
 | 09 IPv4, IPv6, DHCP, NAT | Problem + Simulation | Network |
+| 10 HTTP Protocol Behavior | Lab + Code | Application |
+
 
 ## Setup
 
